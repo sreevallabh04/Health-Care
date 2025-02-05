@@ -202,3 +202,5 @@ export default function SymptomChecker() {
     </div>
   );
 }
+
+//made changes hereby
